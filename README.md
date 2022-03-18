@@ -23,7 +23,7 @@ I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time I read technical literature, fiction, play games and watch movies/TV series
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)]("https://t.me/Bogachev_Konstantin")
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Bogachev_Konstantin)
 
 ### :hammer_and_wrench: Languages and Tools :
 
