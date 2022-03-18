@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Webnulla&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=webnulla&style=flat-square&color=blue" alt=""/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
   <div id="badges">
@@ -39,6 +39,6 @@ I am a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   
   ### :fire: My Stats :
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Webnulla&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=webnulla&theme=dark&background=000000)](https://git.io/streak-stats)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Webnulla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webnulla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
