@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 
-I am studying to be a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am padawan a C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m interested in developing an interface and backend for creating web applications.
 
